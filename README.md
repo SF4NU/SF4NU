@@ -1,4 +1,4 @@
-<h2 align="center">Ciao ! Mi chiamo Marius e sono un junior web developer || Hello! My name is Marius and I am a junior web developer.</h2>
+<h2 align="center">Ciao ! Mi chiamo Marius e sono un junior developer || Hello! My name is Marius and I am a junior developer.</h2>
 
 ###
 
